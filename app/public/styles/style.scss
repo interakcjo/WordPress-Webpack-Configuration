@@ -1,0 +1,24 @@
+// From moduloes
+@import "../../../node_modules/swiper/swiper-bundle.css";
+
+// Globals
+@import "reset";
+@import "variables";
+@import "main";
+@import "fonts";
+@import "svg-icon";
+@import "responsive";
+@import "buttons";
+@import "print";
+
+// Structure
+@import "header";
+@import "footer";
+
+// Occasional Skins
+@import "skins/christmas";
+@import "skins/easter";
+@import "skins/mourning";
+
+// Always Last Element
+@import "wcag";
