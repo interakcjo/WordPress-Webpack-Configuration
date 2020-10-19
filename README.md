@@ -10,11 +10,11 @@
 
 ### Instructions
 
-> Recommed to use `https://underscores.me/` theme.
-> View the styles folder and use according to these rules.
-> Use REM values in font-sizes, margins, paddings etc.
-> Use responsive mixin breakpoints.
-> Require `inc/custom-functions.php` in functions.php file.
+- Recommed to use `https://underscores.me/` theme.
+- View the styles folder and use according to these rules.
+- Use REM values in font-sizes, margins, paddings etc.
+- Use responsive mixin breakpoints.
+- Require `inc/custom-functions.php` in functions.php file.
 
 ### Commands
 
